@@ -1,5 +1,5 @@
-// JavaScript Documentconst express = require('express'),
-     http = require('http');
+// JavaScript Document
+const express = require('express'), http = require('http');
 const hostname = '0.0.0.0';
 const port = 8080;
 const app = express();
