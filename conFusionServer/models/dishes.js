@@ -52,9 +52,9 @@ const dishSchema = new Schema({
     featured: {
         type: Boolean,
         default:false      
-    },
-    comments:[commentSchema]
-}, {
+    }
+},
+ {
     timestamps: true
 });
 
